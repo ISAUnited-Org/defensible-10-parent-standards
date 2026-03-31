@@ -85,7 +85,7 @@ While the final approval of changes is governed through ISAUnited’s formal sta
 - Providing technical input, use cases, or implementation examples  
 
 To participate in standards development, register at:  
-https://www.isaunited.org/isaunited-defensbile10-standards-registration
+https://www.isaunited.org/isaunited-defensible10-standards-registration
 
 General questions or administrative inquiries should be sent to:  
 admin@isaunited.org
